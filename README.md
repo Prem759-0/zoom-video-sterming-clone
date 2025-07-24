@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 # React + Vite
 
+## Live Demo
+
+See how the website works here: [https://zoom-video-sterming-clone.vercel.app/](https://zoom-video-sterming-clone.vercel.app/)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
